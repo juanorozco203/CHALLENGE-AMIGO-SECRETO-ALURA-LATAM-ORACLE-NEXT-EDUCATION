@@ -3,5 +3,12 @@ Este proyecto es un reto de lógica de programación en JavaScript, donde el usu
 - Ingresar nombres de amigos.
 - -Visualizar la lista de amigos agregados.
 - Sortear un amigo secreto al azar.
+
+  
+  Funcionalidades
+- Agregar amigos: Los nombres se almacenan en un array.
+- Mostrar lista: Se renderiza en un <ul> dinámico.
+- Sortear amigo secreto: Selección aleatoria con Math.random() y Math.floor().
+  
 El HTML y el CSS fueron proporcionados previamente, ya que la principal intencion para con el desafio está en la lógica de programacion con JavaScript. Cabe resaltar que este es mi primer proyecto en el mundo apasionante de la progarmacion por lo que puede que hallan algunos errrores que ire corrigiendo con el paso del tiempo, escuchando criticas constructivas de personas como tu que estan viendo este proyecto.
 
